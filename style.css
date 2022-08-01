@@ -69,6 +69,9 @@ h3 {
     margin: 3rem 0 2rem 0;
     max-width: 100%;
 }
+.footer img {
+    max-width: 40%;
+}
 
 
 .item-top {
@@ -122,9 +125,6 @@ h3.not-highlited {
     .top-nav a {
         padding: 1rem;
         font-size: 1rem;
-    }
-    .footer img {
-        max-width: 40%;
     }
 
     /* .row-big {  
