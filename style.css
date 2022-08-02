@@ -101,6 +101,9 @@ h3.not-highlited {
     text-align: center;
     margin: 2rem 0 2rem 0;
 }
+.img-center img {
+    max-width: 100%;
+}
 
 
 .row { 
