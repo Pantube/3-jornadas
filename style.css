@@ -70,7 +70,7 @@ h3 {
     max-width: 100%;
 }
 .footer img {
-    max-width: 40%;
+    max-width: 65%;
 }
 
 
@@ -129,12 +129,7 @@ h3.not-highlited {
         padding: 1rem;
         font-size: 1rem;
     }
-
-    /* .row-big {  
-        display: flex; 
-        flex-wrap: wrap; 
+    .footer img {
+        max-width: 40%;
     }
-    .col-50 {
-        width:50% 
-    } */
  }
