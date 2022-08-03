@@ -32,7 +32,7 @@ h3 {
 .date {
     font-size: 1.2rem;
 }
-small {
+h1 small {
     font-size: 60%;
 }
 
@@ -134,5 +134,11 @@ h3.not-highlited {
     }
     .footer img {
         max-width: 40%;
+    }
+ }
+ @media (max-width: 600px) { 
+    h1 small {
+        display: block;
+        margin-top: 10px ;
     }
  }
